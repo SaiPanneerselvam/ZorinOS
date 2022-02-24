@@ -1,0 +1,3 @@
+run("Startsync")
+for("Zorinplugin")
+v("2.5")
