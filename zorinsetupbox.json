@@ -1,6 +1,5 @@
 { 
-  maintainer: "SaiCorporation",
-  datasequence: "1,2,3,4",
-  os: "zorin",
-  ostype: "64_86"
+  name: "zorinos",
+  url: "",
+  maintainer: "SaiCorporation"
 }
